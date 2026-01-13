@@ -21,6 +21,9 @@ Atualmente, o projeto foca em resolver problemas de negócio utilizando técnica
 1. **Ranking de Faturamento por Cidade:** Identificação de polos comerciais com maior receita.
 2. **Eficiência Logística:** Cálculo do tempo médio de entrega por categoria.
 3. **Comportamento de Crédito:** Análise comparativa entre compras à vista e parceladas.
+4. **Mapa do Consumo**: Identificação dos 5 estados com maior concentração de clientes.
+5. **Sazonalidade (Dia da Semana)**: Análise de qual dia da semana registra o maior volume de pedidos.
+6. **Ticket Médio por Estado**: Cálculo do valor médio gasto por pedido em cada estado.
 
 ---
 *Configurado e mantido por Paulo.*
